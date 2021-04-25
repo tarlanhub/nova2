@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-novads-dev-202104-authRole",
+            "UnauthRoleArn": "arn:aws:iam::096553495258:role/amplify-novads-dev-202104-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::096553495258:role/amplify-novads-dev-202104-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-novads-dev-202104-deployment",
+            "UnauthRoleName": "amplify-novads-dev-202104-unauthRole",
+            "StackName": "amplify-novads-dev-202104",
+            "StackId": "arn:aws:cloudformation:us-west-2:096553495258:stack/amplify-novads-dev-202104/7cc04010-a521-11eb-a4ae-0a4dd2d12a7d",
+            "AmplifyAppId": "d3uya733to4of8"
+        },
+        "categories": {
+            "auth": {
+                "novadsff8119a8": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3uya733to4of8",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
